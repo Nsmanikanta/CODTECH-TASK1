@@ -16,6 +16,7 @@
 
 ### Project : Weather Forecast App
 
+
 ### Objective
 
  **Provide Real-Time Weather Data :** Display accurate weather info for cities, postal codes, or coordinates.
