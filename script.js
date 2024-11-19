@@ -1,19 +1,16 @@
-// Select DOM elements
 const cityInput = document.getElementById('cityInput');
 const getWeatherBtn = document.getElementById('getWeatherBtn');
 const weatherData = document.getElementById('weatherData');
 
-// API key and base URL
-const apiKey = '13ae082b3d6fd45b4f4a1b31fe2cd0a3'; // Replace with your API key
+const apiKey = '13ae082b3d6fd45b4f4a1b31fe2cd0a3'; 
 const apiUrl = 'https://api.openweathermap.org/data/2.5/weather';    
 
-// Function to fetch and display weather data
 const getWeather = async (city) => {
-    const url = `${apiUrl}?q=${encodeURIComponent(city)}&appid=${apiKey}&units=metric`; // encode the city name
+    const url = `${apiUrl}?q=${encodeURIComponent(city)}&appid=${apiKey}&units=metric`; 
     try {
         const response = await fetch(url);
         const data = await response.json();
-        console.log(data); // Log the response for debugging
+        console.log(data);
 
         if (data.cod === 200) {
             const { name, main, weather, wind } = data;
@@ -35,7 +32,6 @@ const getWeather = async (city) => {
     }
 };
 
-// Event listener for button click
 getWeatherBtn.addEventListener('click', () => {
     const city = cityInput.value;
     if (city) {
