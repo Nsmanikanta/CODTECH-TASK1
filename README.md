@@ -12,18 +12,18 @@
 **Mentor    :** SRAVANI GOUNI
 
 
-##Overview of the project 
+## Overview of the project 
 
-Project : weather forecast app
+### Project : weather forecast app
 
-Objective
+### Objective
 
 -> Provide Real-Time Weather Data: Display accurate weather info for cities, postal codes, or coordinates.
 -> User-Friendly Interface: Responsive design with a weather-themed background and clear UI.
 -> Broad Location Search: Allow search by city name, postal code, or coordinates.
 -> Error Handling: Display clear messages for invalid inputs or API issues.
 
-Key Activities
+### Key Activities
 
 -> Setup and Configuration: Set up the app environment and connect to the OpenWeatherMap API.
 -> UI/UX Design: Create a responsive interface with weather-themed visuals.
@@ -31,7 +31,7 @@ Key Activities
 -> Error Handling: Validate input and show feedback for errors.
 -> Testing and Deployment: Test the app and deploy it on GitHub Pages or Netlify.
 
-Technology used
+### Technology used
 
 -> Frontend: HTML, CSS, JavaScript (ES6+).
 -> API: OpenWeatherMap for weather data.
