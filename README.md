@@ -1,10 +1,16 @@
 # CODTECH-TASK1
-**Name:** N Syam Manikanta
-**Company :** CODETECH IT SOLUTIONS 
-**Intern ID:** CT6WDS2031
-**Domain :** Web development
-**Duration :** Six weeks
-**Mentor :** SRAVANI GOUNI
+**Name      :** N Syam Manikanta
+
+**Company   :** CODETECH IT SOLUTIONS
+
+**Intern ID :** CT6WDS2031
+
+**Domain    :** Web development
+
+**Duration  :** Six weeks
+
+**Mentor    :** SRAVANI GOUNI
+
 
 ##Overview of the project 
 
