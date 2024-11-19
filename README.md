@@ -1,4 +1,4 @@
-![screenshot-1731350548449](https://github.com/user-attachments/assets/106a9808-45e0-45e6-9677-f224b232fc5a)![screenshot-1731350548449](https://github.com/user-attachments/assets/35165aa8-82aa-4f39-964a-ac2a3258fac5)# CODTECH-TASK1
+# CODTECH-TASK1
 **Name      :** N Syam Manikanta
 
 **Company   :** CODETECH IT SOLUTIONS
@@ -15,8 +15,7 @@
 ## Overview of the Project 
 
 ### Project : Weather Forecast App
-
-
+![screenshot-1731350548449](https://github.com/user-attachments/assets/106a9808-45e0-45e6-9677-f224b232fc5a)![screenshot-1731350548449](https://github.com/user-attachments/assets/35165aa8-82aa-4f39-964a-ac2a3258fac5)
 ### Objective
 
  **Provide Real-Time Weather Data :** Display accurate weather info for cities, postal codes, or coordinates.
