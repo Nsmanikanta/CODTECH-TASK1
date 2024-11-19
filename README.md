@@ -16,7 +16,7 @@
 
 ### Project : Weather Forecast App
 ![screenshot-1731350548449](https://github.com/user-attachments/assets/106a9808-45e0-45e6-9677-f224b232fc5a)
-file:///C:/Users/Manikanta/Downloads/Weather%20Forecast.html
+
 ### Objective
 
  **Provide Real-Time Weather Data :** Display accurate weather info for cities, postal codes, or coordinates.
