@@ -12,9 +12,9 @@
 **Mentor    :** SRAVANI GOUNI
 
 
-## Overview of the project 
+## Overview of the Project 
 
-### Project : Weather forecast app
+### Project : Weather Forecast App
 
 ### Objective
 
